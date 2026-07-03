@@ -1,0 +1,4 @@
+dist/
+.vscode/compile_commands.json
+*.elf
+*.fap

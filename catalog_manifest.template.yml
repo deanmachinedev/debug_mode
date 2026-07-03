@@ -1,0 +1,13 @@
+sourcecode:
+  type: git
+  location:
+    origin: https://github.com/YOUR_GITHUB_USERNAME/debug_mode.git
+    commit_sha: REPLACE_WITH_COMMITTED_SOURCE_SHA
+short_description: A pocket debugging notebook for messy real problems.
+description: "@README.md"
+changelog: "@changelog.md"
+screenshots:
+  - screenshots/ss0.png
+  - screenshots/ss1.png
+  - screenshots/ss2.png
+  - screenshots/ss3.png
