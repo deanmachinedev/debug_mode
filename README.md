@@ -84,7 +84,7 @@ Timeline markers:
 - ! Symptom
 - ? Test
 - = Result
-- > Next Step
+- Greater-than marker: Next Step
 - OK Resolution
 - RC Root Cause
 - L Lesson
