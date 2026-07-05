@@ -52,11 +52,6 @@ This keeps the feature read-only on the card itself.
 
 ## Screenshots
 
-![Splash screen](screenshots/ss0.png)
-![Case templates](screenshots/ss1.png)
-![Dashboard](screenshots/ss2.png)
-![Card linked](screenshots/ss3.png)
-
 Catalog screenshots are captured with qFlipper and kept at their original size and format.
 
 ## Navigation
